@@ -30,7 +30,7 @@ Keerthana is licensed under the Apache License 2.0. The full license text is ava
 This project is crafted by Ajay O S, a passionate software developer specializing in innovative solutions using cutting-edge technologies. Connect with me through:
 
 - Email: [**`ajayosakhub@gmail.com`**](mailto:ajayosakhub@gmail.com)
-- GitHub:  [**`Ajayos`**](https://github.com/Ajayos)
+- GitHub: [**`Ajayos`**](https://github.com/Ajayos)
 - Twitter: [**`_ajay_o_s_`**](https://twitter.com/_ajay_o_s_)
 - Instagram: [**`_ajay_o_s_`**](https://instagram.com/_ajay_o_s_)
 
@@ -49,7 +49,7 @@ If you encounter any bugs or issues with Keerthana, please report them on the [`
  * CopyRight @Ajay o s 2022-2023
 ```
 
-```Keerthana``` - Elevate your messaging experience on WhatsApp and Telegram to a new level of harmony.
+`Keerthana` - Elevate your messaging experience on WhatsApp and Telegram to a new level of harmony.
 
 ```
 ➤⃟🍒 ✮⃝KEERTHANA🎀⃟⃪➣  ➤⃟🍒

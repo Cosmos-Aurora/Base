@@ -1,4 +1,3 @@
-
 # Changelog
 
 ## [1.0.0](https://github.com/keerthana-bot/Base/tree/1.0.0) (2023-09-10)
